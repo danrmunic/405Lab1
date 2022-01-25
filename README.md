@@ -14,7 +14,7 @@ This Reposity holds documentation for lab 1.
 
 ## Documentation
 
-* [Lab01 Documentation](https://github.com/danrmunic/405Labs/tree/main/Lab1/docs)
+* [Lab01 Documentation](https://github.com/danrmunic/405Lab1/tree/main/Lab1/docs)
 
 ## Website Link
 
